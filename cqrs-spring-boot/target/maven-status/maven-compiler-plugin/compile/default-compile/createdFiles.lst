@@ -1,0 +1,17 @@
+com/poc/cqrs/command/repository/ProductCommandRepository.class
+com/poc/cqrs/command/controller/ProductCommandController.class
+com/poc/cqrs/command/event/ProductEvent$ProductUpdated.class
+com/poc/cqrs/command/event/ProductEvent$ProductCreated.class
+com/poc/cqrs/query/repository/ProductQueryRepository.class
+com/poc/cqrs/command/controller/ProductCommandController$CreateProductCommand.class
+com/poc/cqrs/config/GlobalExceptionHandler.class
+com/poc/cqrs/CqrsApplication.class
+com/poc/cqrs/command/event/ProductEvent.class
+com/poc/cqrs/query/projection/ProductProjection.class
+com/poc/cqrs/command/event/ProductEvent$ProductDeleted.class
+com/poc/cqrs/command/controller/ProductCommandController$UpdateProductCommand.class
+com/poc/cqrs/query/model/ProductView.class
+com/poc/cqrs/query/controller/ProductQueryController.class
+com/poc/cqrs/query/service/ProductQueryService.class
+com/poc/cqrs/command/model/Product.class
+com/poc/cqrs/command/service/ProductCommandService.class
